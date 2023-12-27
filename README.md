@@ -12,4 +12,4 @@ pip install opencv-python 4.5.1.48
 # the code will be relased
 This manuscript is under review.
 # Contact #
-Any questions, please contact the email at jiachen@email.tjut.edu.cn
+Any questions, please contact the email at jiachen@email.tjut.edu.cn or chenjia@ieee.org
