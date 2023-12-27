@@ -9,7 +9,7 @@ python3.7
 CUDA 10.1
 pytorch 1.7.1
 pip install opencv-python 4.5.1.48
-# Results 
+# Results (UrbanLF dataset)
 mIoU=81.48 
 Trainable parameters (M) = 6.37
 # the code will be relased
